@@ -4,5 +4,5 @@ test app on flutter
 
 ## Preview
 
-<img src = 'assets/images/preview.gif'>
+<img src = 'assets/images/preview.gif' width='250'>
 
